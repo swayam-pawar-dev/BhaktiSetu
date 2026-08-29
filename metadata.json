@@ -1,0 +1,10 @@
+{
+  "name": "BhaktiSetu",
+  "description": "BhaktiSetu - Your faithful digital companion for the Pandharpur Wari pilgrimage with route tracking, spiritual guides, community connect, and emergency SOS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
